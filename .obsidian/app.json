@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "uriCallbacks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Default Notes",
+  "attachmentFolderPath": "_assets",
+  "showUnsupportedFiles": true
+}

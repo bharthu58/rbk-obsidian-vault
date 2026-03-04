@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "c917a66d5faff43b",
+    "type": "split",
+    "children": [
+      {
+        "id": "51f424f4db3df6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd784f01f81256c7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56a0f31146e32505",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aabfdead83b5478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "551ac8aa04677e45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd3acf18f2e13f2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94af37a0fb124d1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "right": {
+    "id": "9f3f1e03cd3423dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4fded15b620bcf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ab7096cc547d87d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DOCS/PKM LM/Start Here.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Start Here"
+            }
+          },
+          {
+            "id": "c022a8d1e3717443",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PKM LM/A Few of Our Favorite Obsidian Plugins.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A Few of Our Favorite Obsidian Plugins"
+            }
+          },
+          {
+            "id": "f60555a109232f4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac3a6a551daa7262",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2ed5e68ada67c72e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "dd784f01f81256c7",
+  "lastOpenFiles": [
+    "MyLearn/AI/AI Learning Image Gallery.md",
+    "MyLearn/C++/C++ Learning Image Gallery.md",
+    "MyLearn/AI/C++ Learning Image Gallery.md",
+    "MyLearn/AI/AI learning.md",
+    "MyLearn/AI/rbk-queries-during-ai-discovery-phase.md",
+    "_assets/images/ai-learning/ai-learning-mindtree.jpg",
+    "_assets/images/ai-learning/Unconfirmed 782924.crdownload",
+    "_assets/images/cpp-learning/quick-ref-auto-type-deduction.jpg",
+    "_assets/images/cpp-learning",
+    "_assets/images/New folder",
+    "_assets/images/ai-learning/claude-tips.jpg",
+    "_assets/images/ai-learning/gen-ai-learn-roadmap.jpg",
+    "_assets/images/ai-learning/learn-ai.jpg",
+    "_assets/images/ai-learning/n8n-vs-langraph.jpg",
+    "_assets/images/ai-learning/n8n-vs-langraph-notes.jpg",
+    "_assets/images/ai-learning/open-src-RAG-stack.jpg",
+    "_assets/images/ai-learning/roadmap-learn-ai.jpg",
+    "_assets/images/ai-learning/ai-vs-deeplearn-vs-genai.jpg",
+    "_assets/images/ai-learning",
+    "_templates/Daily Notes.md",
+    "_assets/images",
+    "Clippings/iCloud Notes.md",
+    "Default Notes/My First Note.md",
+    "Home.md",
+    "MyLearn/DEVOPS/dev-ops.md",
+    "MyLearn/DEVOPS",
+    "MyLearn/WEB/Markdown Cheatsheet.md",
+    "MyLearn/WEB",
+    "MyLearn/Linux",
+    "MyLearn/C++",
+    "MyLearn/AI",
+    "MyLearn/Linux/Methods to Access & Manage WSL2 Vaults in Obsidian.md",
+    "MyLearn/C++/Modern C++.md",
+    "README.md",
+    "RBK First Note.md",
+    "MOCs/Python.md",
+    "MyLearn/Python/uv.md",
+    "MyLearn/Python/pipx.md",
+    "MOCs/CPP.md",
+    "MOCs/AI.md",
+    "MOCs/DevOps.md",
+    "MyLearn/DEVOPS/git-repo.md",
+    "MOCs/Domain.md",
+    "DOCS/PKM LM/Capturing to iCloud Drive & Obsidian from Drafts.md",
+    "DOCS/PKM LM/Start Here.md",
+    "DOCS/PKM LM/General PKM.md"
+  ]
+}
