@@ -1,5 +1,12 @@
+# Home
+
 [[CPP|C++]]
 [[AI|Artificial Intelligence]]
 [[Python|Python]]
-[[Domain|General Domain Knowledge]]
 [[DevOps]]
+[[Linux]]
+[[Domain|General Domain Knowledge]]
+
+---
+
+*Wiki: [[Overview]] · [[index|Index]] · [[log|Log]]*

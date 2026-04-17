@@ -4,18 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "51f424f4db3df6dc",
+        "id": "7a00cd06120b27ac",
         "type": "tabs",
         "children": [
           {
-            "id": "dd784f01f81256c7",
+            "id": "ef251a2328e4b43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            },
+            "group": "6512e1fd66860d30"
+          }
+        ]
+      },
+      {
+        "id": "5c75a06ac83a58ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1990787e112f43bc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+              "title": "Graph of Home"
+            },
+            "group": "6512e1fd66860d30"
           }
         ]
       }
@@ -74,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 511.5
   },
   "right": {
     "id": "9f3f1e03cd3423dd",
@@ -151,9 +200,26 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Home.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Home"
+            }
+          },
+          {
+            "id": "6aa9956b75b3b2e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
             }
           }
         ],
@@ -172,56 +238,58 @@
       "markdown-importer:Open format converter": false,
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "dd784f01f81256c7",
+  "active": "551ac8aa04677e45",
   "lastOpenFiles": [
-    "MyLearn/AI/AI Learning Image Gallery.md",
-    "MyLearn/C++/C++ Learning Image Gallery.md",
-    "MyLearn/AI/C++ Learning Image Gallery.md",
-    "MyLearn/AI/AI learning.md",
-    "MyLearn/AI/rbk-queries-during-ai-discovery-phase.md",
-    "_assets/images/ai-learning/ai-learning-mindtree.jpg",
-    "_assets/images/ai-learning/Unconfirmed 782924.crdownload",
-    "_assets/images/cpp-learning/quick-ref-auto-type-deduction.jpg",
-    "_assets/images/cpp-learning",
-    "_assets/images/New folder",
-    "_assets/images/ai-learning/claude-tips.jpg",
-    "_assets/images/ai-learning/gen-ai-learn-roadmap.jpg",
-    "_assets/images/ai-learning/learn-ai.jpg",
-    "_assets/images/ai-learning/n8n-vs-langraph.jpg",
-    "_assets/images/ai-learning/n8n-vs-langraph-notes.jpg",
-    "_assets/images/ai-learning/open-src-RAG-stack.jpg",
-    "_assets/images/ai-learning/roadmap-learn-ai.jpg",
-    "_assets/images/ai-learning/ai-vs-deeplearn-vs-genai.jpg",
-    "_assets/images/ai-learning",
-    "_templates/Daily Notes.md",
-    "_assets/images",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/Overview.md",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/index.md",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/C++ — Modern Features Reference (C++20-23).md",
+    "Agent Access/rbk-pkm-wiki/raw/assets/Image 4.webp",
+    "Agent Access/rbk-pkm-wiki/raw/assets/Image 3.webp",
+    "Agent Access/rbk-pkm-wiki/raw/assets/Image 2.webp",
+    "Agent Access/rbk-pkm-wiki/raw/assets/Image 1.webp",
+    "Agent Access/rbk-pkm-wiki/raw/assets/Image.webp",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/LLM Wiki Pattern.md",
+    "Agent Access/rbk-pkm-wiki/raw/web-clippings/Lost in Modern C++ This Feature Map Shows Where Everything Fits (C++20–23).md",
+    "Agent Access/raw-sources/web-clippings/best community plugin for displaying google docs and word docs in obsidian - Google Search.md",
+    "Agent Access/raw-sources/web-clippings/llm-wiki.md",
+    "Agent Access/raw-sources/web-clippings",
+    "Agent Access/raw-sources/assets",
+    "Agent Access/raw-sources",
+    "Agent Access",
+    "rbk-pkm-wiki",
     "Clippings/iCloud Notes.md",
-    "Default Notes/My First Note.md",
-    "Home.md",
-    "MyLearn/DEVOPS/dev-ops.md",
-    "MyLearn/DEVOPS",
-    "MyLearn/WEB/Markdown Cheatsheet.md",
-    "MyLearn/WEB",
-    "MyLearn/Linux",
-    "MyLearn/C++",
-    "MyLearn/AI",
-    "MyLearn/Linux/Methods to Access & Manage WSL2 Vaults in Obsidian.md",
-    "MyLearn/C++/Modern C++.md",
-    "README.md",
-    "RBK First Note.md",
-    "MOCs/Python.md",
+    "raw-sources/web-clippings/best community plugin for displaying google docs and word docs in obsidian - Google Search.md",
+    "raw-sources/web-clippings/Why Andrej Karpathy’s “LLM Wiki” is the Future of Personal Knowledge.md",
+    "raw-sources/assets/Image.webp",
+    "raw-sources/assets/Image 2.webp",
+    "raw-sources/assets/Image 1.webp",
+    "raw-sources/assets/Image.png",
+    "raw-sources/web-clippings/llm-wiki.md",
+    "raw-sources/web-clippings",
     "MyLearn/Python/uv.md",
+    "raw-sources/assets",
+    "raw-sources",
     "MyLearn/Python/pipx.md",
-    "MOCs/CPP.md",
+    "MyLearn/HFT-Bootcamp/04_Notes",
+    "MyLearn/HFT-Bootcamp/03_Reviews",
+    "MyLearn/HFT-Bootcamp/00_Master_Plan.md.md",
+    "MyLearn/HFT-Bootcamp/01_Weekly/Week_01.md.md",
+    "MyLearn/HFT-Bootcamp/README.md.md",
+    "MyLearn/HFT-Bootcamp/execution.md.md",
+    "Home.md",
+    "MyLearn/C++/Modern C++.md",
+    "MyLearn/AI/rbk-queries-during-ai-discovery-phase.md",
+    "MyLearn/AI/ai-agents-comparison-for-financial-domain-coding-tasks.md",
+    "MyLearn/AI/AI Learning Image Gallery.md",
+    "MyLearn/AI/AI learning.md",
     "MOCs/AI.md",
-    "MOCs/DevOps.md",
     "MyLearn/DEVOPS/git-repo.md",
-    "MOCs/Domain.md",
-    "DOCS/PKM LM/Capturing to iCloud Drive & Obsidian from Drafts.md",
-    "DOCS/PKM LM/Start Here.md",
-    "DOCS/PKM LM/General PKM.md"
+    "_assets/images/linux/most-used-linux-commands.jpg",
+    "_assets/images/linux/Untitled.canvas",
+    "MyLearn/Linux/Methods to Access & Manage WSL2 Vaults in Obsidian.md"
   ]
 }

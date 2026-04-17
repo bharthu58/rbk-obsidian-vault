@@ -3,6 +3,6 @@
   "uriCallbacks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Default Notes",
-  "attachmentFolderPath": "_assets",
+  "attachmentFolderPath": "Agent Access/rbk-pkm-wiki/raw/assets",
   "showUnsupportedFiles": true
 }
