@@ -15,6 +15,9 @@ aliases:
 ## Concurrency & Low-Latency
 - [[C++ — Lock-Free Ring Buffers]] — MoodyCamel vs rigtorp vs Boost.Lockfree vs Folly; decision guide by threading model and latency requirements
 
+## HFT Bootcamp (Active Project)
+- [[00_Master_Plan]] — 12-week bootcamp: build a low-latency trading system from NASDAQ ITCH data (C++ core, Python support)
+
 ## In Progress
 *(Add pages as they're created — Trading infra, memory model, NUMA, etc.)*
 

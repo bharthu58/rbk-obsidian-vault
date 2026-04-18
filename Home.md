@@ -5,7 +5,12 @@
 [[Python|Python]]
 [[DevOps]]
 [[Linux]]
-[[Domain|General Domain Knowledge]]
+[[Obsidian|Obsidian & PKM]]
+
+---
+
+*Active project: [[00_Master_Plan|HFT Bootcamp]]*
+*Tasks: [[tasknotes-config|Task Notes]]*
 
 ---
 

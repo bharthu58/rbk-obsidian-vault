@@ -4,67 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7a00cd06120b27ac",
+        "id": "3496ff0092ba5374",
         "type": "tabs",
         "children": [
           {
-            "id": "ef251a2328e4b43d",
+            "id": "70368bc913d94f49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            },
-            "group": "6512e1fd66860d30"
-          }
-        ]
-      },
-      {
-        "id": "5c75a06ac83a58ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1990787e112f43bc",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Home.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
-            },
-            "group": "6512e1fd66860d30"
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -200,11 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Home.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties"
             }
           },
           {
@@ -213,17 +162,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7eededb30e84648e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -239,12 +197,50 @@
       "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "marp-slides:Show Slide Preview": false
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro timer": false,
+      "tasknotes:Open pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "551ac8aa04677e45",
+  "active": "70368bc913d94f49",
   "lastOpenFiles": [
     "Agent Access/rbk-pkm-wiki/rbk-main-wiki/Overview.md",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/meta/PKM — Personal Workflow Reference.md",
+    "MOCs/Obsidian.md",
+    "Home.md",
+    "Agent Access/rbk-task-notes/Views/agenda-default.base",
+    "Agent Access/rbk-task-notes/Views/kanban-default.base",
+    "Agent Access/rbk-task-notes/Views/tasks-default.base",
+    "Agent Access/rbk-task-notes/Views/relationships.base",
+    "Agent Access/rbk-task-notes/Views/mini-calendar-default.base",
+    "Agent Access/rbk-task-notes/tasknotes-config.md",
+    "CLAUDE.md",
+    "MOCs/DevOps.md",
+    "MOCs/CPP.md",
+    "MOCs/AI.md",
+    "Agent Access/rbk-pkm-wiki/wiki-config.md",
+    "Agent Access/rbk-pkm-wiki/README.md",
+    "Daily Notes/2026-02-26.md",
+    "Daily Notes/Daily-work-log.md",
+    "README.md",
+    "Default Notes/My First Note.md",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/web/WEB — Markdown Reference.md",
+    "Agent Access/rbk-pkm-wiki/ingested/documentation/git-cheat-sheet-education.pdf",
+    "Agent Access/TaskNotes/tasknotes-config.md",
+    "Agent Access/TaskNotes/tasknotes-config.md.tmp.3819.1776464369675",
+    "Agent Access/rbk-pkm-wiki/raw/AI_Leverage_Wiki.md",
+    "Agent Access/rbk-pkm-wiki/raw/AI_Leverage_CheatSheet.pdf",
+    "Agent Access/TaskNotes/Views/relationships.base",
+    "Agent Access/TaskNotes/Views/agenda-default.base",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/ai/AI — Claude Code Tips.md",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/cpp/C++ — Lock-Free Ring Buffers.md",
+    "Agent Access/rbk-pkm-wiki/rbk-main-wiki/cpp/C++ — auto Type Deduction Reference.md",
     "Agent Access/rbk-pkm-wiki/rbk-main-wiki/index.md",
     "Agent Access/rbk-pkm-wiki/rbk-main-wiki/C++ — Modern Features Reference (C++20-23).md",
     "Agent Access/rbk-pkm-wiki/raw/assets/Image 4.webp",
@@ -255,41 +251,11 @@
     "Agent Access/rbk-pkm-wiki/rbk-main-wiki/LLM Wiki Pattern.md",
     "Agent Access/rbk-pkm-wiki/raw/web-clippings/Lost in Modern C++ This Feature Map Shows Where Everything Fits (C++20–23).md",
     "Agent Access/raw-sources/web-clippings/best community plugin for displaying google docs and word docs in obsidian - Google Search.md",
-    "Agent Access/raw-sources/web-clippings/llm-wiki.md",
-    "Agent Access/raw-sources/web-clippings",
-    "Agent Access/raw-sources/assets",
-    "Agent Access/raw-sources",
-    "Agent Access",
-    "rbk-pkm-wiki",
-    "Clippings/iCloud Notes.md",
-    "raw-sources/web-clippings/best community plugin for displaying google docs and word docs in obsidian - Google Search.md",
-    "raw-sources/web-clippings/Why Andrej Karpathy’s “LLM Wiki” is the Future of Personal Knowledge.md",
     "raw-sources/assets/Image.webp",
     "raw-sources/assets/Image 2.webp",
     "raw-sources/assets/Image 1.webp",
     "raw-sources/assets/Image.png",
-    "raw-sources/web-clippings/llm-wiki.md",
-    "raw-sources/web-clippings",
-    "MyLearn/Python/uv.md",
-    "raw-sources/assets",
-    "raw-sources",
-    "MyLearn/Python/pipx.md",
-    "MyLearn/HFT-Bootcamp/04_Notes",
-    "MyLearn/HFT-Bootcamp/03_Reviews",
-    "MyLearn/HFT-Bootcamp/00_Master_Plan.md.md",
-    "MyLearn/HFT-Bootcamp/01_Weekly/Week_01.md.md",
-    "MyLearn/HFT-Bootcamp/README.md.md",
-    "MyLearn/HFT-Bootcamp/execution.md.md",
-    "Home.md",
-    "MyLearn/C++/Modern C++.md",
-    "MyLearn/AI/rbk-queries-during-ai-discovery-phase.md",
-    "MyLearn/AI/ai-agents-comparison-for-financial-domain-coding-tasks.md",
-    "MyLearn/AI/AI Learning Image Gallery.md",
-    "MyLearn/AI/AI learning.md",
-    "MOCs/AI.md",
-    "MyLearn/DEVOPS/git-repo.md",
     "_assets/images/linux/most-used-linux-commands.jpg",
-    "_assets/images/linux/Untitled.canvas",
-    "MyLearn/Linux/Methods to Access & Manage WSL2 Vaults in Obsidian.md"
+    "_assets/images/linux/Untitled.canvas"
   ]
 }

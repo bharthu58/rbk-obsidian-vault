@@ -9,6 +9,7 @@
 - [[Overview]] — Session bootstrap: directory layout, domains, operational notes, session checklist. `rbk-main-wiki/Overview.md`
 - [[LLM Wiki Pattern]] — The Karpathy pattern: LLM builds and maintains a persistent compounding wiki instead of one-shot RAG retrieval. Core operations: ingest, query, lint. `rbk-main-wiki/meta/LLM Wiki Pattern.md`
 - [[PKM — Note-Making Philosophy]] — Note-making vs note-taking, MOC as cartography, atomic notes, bidirectional links, quality over quantity. `rbk-main-wiki/meta/PKM — Note-Making Philosophy.md`
+- [[PKM — Personal Workflow Reference]] — Personal capture → process → connect → review system; daily/weekly/monthly rhythm and warning signs. `rbk-main-wiki/meta/PKM — Personal Workflow Reference.md`
 
 ## AI / LLM
 

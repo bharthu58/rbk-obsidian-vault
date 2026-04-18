@@ -4,6 +4,12 @@
 
 ---
 
+## [2026-04-17] lint | Full wiki pass
+Summary: 0 broken links, 0 orphans, 0 stale entries, 4 missing connections, 0 orphaned assets, 11 orphaned sources (3 unreferenced + 8 stale changes: paths).
+Report: archive/lint-2026-04-17.md
+
+---
+
 ## [2026-04-17] ingest | DOCS/PKM LM/ (29 files → 3 pages)
 Synthesised 3 wiki pages from 29 PKM reference files in DOCS/PKM LM/. Originals left in place (outside Agent Access/). Pages created: [[PKM — Note-Making Philosophy]] (meta/), [[Obsidian — Plugin Recommendations]] (obsidian/), [[Obsidian — Dataview Queries]] (obsidian/). Skipped: iOS/Drafts/iCloud-specific files (not applicable to WSL2+Windows setup), navigation stubs (General PKM, Task Management, Obsidian Setup, Productivity, Start Here — index files with no synthesisable content), writing/journaling-workflow files (secondary domain). Wiki now has 22 pages.
 
